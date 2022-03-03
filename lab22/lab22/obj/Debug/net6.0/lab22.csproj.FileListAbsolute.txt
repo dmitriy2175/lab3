@@ -1,0 +1,30 @@
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\lab22.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\lab22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\lab22.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\lab22.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\lab22.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\bin\Debug\net6.0\lab22.exe
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\bin\Debug\net6.0\lab22.deps.json
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\bin\Debug\net6.0\lab22.runtimeconfig.json
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\bin\Debug\net6.0\lab22.dll
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\bin\Debug\net6.0\lab22.pdb
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\lab22.dll
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\refint\lab22.dll
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\lab22.pdb
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\lab22.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\Дима\Прога\lab22\lab22\obj\Debug\net6.0\ref\lab22.dll
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\bin\Debug\net6.0\lab22.exe
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\bin\Debug\net6.0\lab22.deps.json
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\bin\Debug\net6.0\lab22.runtimeconfig.json
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\bin\Debug\net6.0\lab22.dll
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\bin\Debug\net6.0\lab22.pdb
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\lab22.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\lab22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\lab22.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\lab22.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\lab22.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\lab22.dll
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\refint\lab22.dll
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\lab22.pdb
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\lab22.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\Дима\визуальное программирование\lab2\lab22\lab22\obj\Debug\net6.0\ref\lab22.dll
